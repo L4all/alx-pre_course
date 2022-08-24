@@ -1,5 +1,5 @@
 My first readme
-0x01-get
+0x01-get:
 It's my time to show the world what've got. I'm not letting anything talk me down.
 Making effort to make th world a better place.
 Can't stop now and can't give up now. 
